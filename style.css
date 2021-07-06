@@ -75,4 +75,76 @@ p{
 }
 
 
+.container{
+    height: 300px;
+}
+
+.contrainer-box{
+    width: 960px;
+   
+    margin: auto;
+    text-align: center;
+   padding: 45px 45px;
+   box-shadow: 8px 8px 25px grey;
+   border-radius: 20px;
+    
+
+}
+
+
+.youtube{
+    width: 33%;
+    float: left;
+}
+.youtube h2{
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+
+.intergrame h2{
+    margin: 0;
+    margin-bottom: 10px;
+}
+.likes h2{
+    margin: 0;
+    margin-bottom: 10px;
+}
+.intergrame{
+    width: 33%;
+    float: left;
+    overflow: hidden;
+}
+
+.likes{
+    width: 33%;
+    overflow: hidden;
+}
+
+footer{
+
+ 
+    background: #000;
+    color: #ffff;
+    text-align: center;
+    height: 150px;
+    padding: 40px 0px 0px 5px;
+ 
+
+}
+.footer-container h4{
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+}
+.footer-container span{
+    color: orangered;
+    margin-right: 15px;
+    margin-top: 70px;
+}
+.footer-container p{
+    margin-top: 30px;
+}
+
 
